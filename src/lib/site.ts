@@ -5,7 +5,7 @@ export const site = {
     "اختر شغفك مع رويال فالي للسياحة. برامج الحج والعمرة، خدمات التأشيرات، وحجز الطيران والفنادق. تواصل معنا لتخطيط رحلتك القادمة.",
   email: "info@royalvalleydamietta.com",
   phones: ["01002131321", "01002030323"],
-  whatsapp: "https://wa.me/201002131321",
+  whatsapp: "https://wa.me/201002030323",
   // Add the official profile URLs when supplied. Do not link to unrelated accounts.
   social: { facebook: "", instagram: "", tiktok: "" },
 };
